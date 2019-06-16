@@ -8,3 +8,5 @@ RecSoft is a Recognition Software that will ultimately be capable of oject recog
 2. Apurva Patel
 
 ## Running the Project
+
+The Project is designed using Python as its scripting language.
