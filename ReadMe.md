@@ -1,0 +1,10 @@
+# RecSoft
+
+RecSoft is a Recognition Software that will ultimately be capable of oject recognition in realtime. It will also be performing various calculations as it recognizes objects from the live feed.
+
+### Team Members:
+
+1. Tanushri Singh
+2. Apurva Patel
+
+## Running the Project
