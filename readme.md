@@ -14,3 +14,6 @@ The Project is designed using Python as its scripting language.
 ## References
 
 - https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+
+- https://github.com/tensorflow/models/tree/master/research/object_detection
+
